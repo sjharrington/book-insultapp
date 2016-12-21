@@ -35,6 +35,6 @@ public class InsultGenerator {
 		} catch (Exception e) {
 			return "Database connection problem!";
 		}
-		return "YOU SUCK and " + theInsult;
+		return "Hillary you suck and " + theInsult;
 	}
 }
